@@ -1,4 +1,4 @@
-package policies
+package lru
 
 import (
 	"reflect"
